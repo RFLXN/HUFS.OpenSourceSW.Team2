@@ -97,13 +97,10 @@ def color_list():
 
 def page_not_found():
     return "04_ERROR_PAGE_WILL_BE_RETURN"
-
-
 # TODO: Implement 404 Error Page
 
 
 app.register_error_handler(404, page_not_found)
 
 if __name__ == "__main__":
-    app.debug = True
     app.run()

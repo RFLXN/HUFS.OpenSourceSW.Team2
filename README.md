@@ -1,6 +1,6 @@
 # HUFS OpenSW Team 2 Project Repository
 
-Demo Here: [http://hufsoss.rflxn.xyz/](http://hufsoss.rflxn.xyz/)
+Demo Here: ~~http://hufsoss.rflxn.xyz/(CLOSED)~~
 
 ## 목표
 
